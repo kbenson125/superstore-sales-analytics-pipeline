@@ -1,0 +1,13 @@
+region,category,total_sales,total_profit,total_quantity,customers
+Central,Furniture,163797.1638,-2871.0494,1827,318
+Central,Office Supplies,167026.415,8879.979899999998,5409,540
+Central,Technology,170416.312,33697.432,1544,297
+East,Furniture,208291.204,3046.1658,2214,371
+East,Office Supplies,205516.055,41014.5791,6462,610
+East,Technology,264973.981,47462.0351,1942,354
+South,Furniture,117298.684,6771.2061,1291,239
+South,Office Supplies,125651.313,19986.3928,3800,424
+South,Technology,148771.908,19991.8314,1118,219
+West,Furniture,252612.7435,11504.9503,2696,423
+West,Office Supplies,220853.249,52609.849,7235,608
+West,Technology,251991.832,44303.6496,2335,365
